@@ -75,19 +75,4 @@ The following is the results of the images. I also add the number of persons in 
   <br/>
   <br/>
   
-
-  ## Contributing:
-  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
- [![GitHub issues](https://img.shields.io/github/issues/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/issues)
-  <br/>
-  <br/>
-  ## Licence & copyright: 
-  © Prudhvi GNV, _Computer Science<br/>
-  Licensed under the [MIT License](LICENSE)_
-  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
-  
-  --------
-## Contact:
-<a href="https://www.linkedin.com/in/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/PrudhviGNV"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  <a href="https://www.facebook.com/prudhvi.gnv/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a>  <a href="mailto:prudhvi.gnv@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  <a
- href="https://www.instagram.com/prudhvi_gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/instagram.png" width="40" /> </a><a href="https://prudhvignv.github.io"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/home.png" width="40" /></a>
   
